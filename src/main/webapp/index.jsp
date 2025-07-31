@@ -18,9 +18,13 @@
       <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
  	<p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
       <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
+
+      <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
+
+      <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
