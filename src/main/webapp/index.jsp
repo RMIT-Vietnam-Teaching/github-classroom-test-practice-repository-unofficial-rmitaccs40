@@ -9,7 +9,7 @@
             // Ensure the log directory exists
             File logDir = new File(logDirPath);
             if (!logDir.exists()) {
-                logDir.mkdirs();
+                logDir.mkdirs(); 
             }
     
             // Open the log file in append mode (the 'true' flag)
